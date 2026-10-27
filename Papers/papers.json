@@ -1,0 +1,82 @@
+[
+  {
+    "id": "jurnal01",
+    "judul": "LLM-Based Edge Intelligence: A Comprehensive Survey on Architectures, Applications, Security and Trustworthiness",
+    "penulis": "Golec, M. et al.",
+    "tahun": "2024",
+    "level_indeks": "Q1 — IEEE Open Journal of the Communications Society",
+    "link": "https://ieeexplore.ieee.org/abstract/document/10669603"
+  },
+  {
+    "id": "jurnal02",
+    "judul": "On-device Large Language Models: A Survey of Model Compression and System Optimization",
+    "penulis": "Chen, W. et al.",
+    "tahun": "2026",
+    "level_indeks": "Q1 — Artificial Intelligence Review (Springer)",
+    "link": "https://link.springer.com/article/10.1007/s10462-026-11538-1"
+  },
+  {
+    "id": "jurnal03",
+    "judul": "Frugal Edge AI + TinyML",
+    "penulis": "Pita Costa, J. et al.",
+    "tahun": "2026",
+    "level_indeks": "Q1 — Sustainability (MDPI)",
+    "link": "https://www.mdpi.com/journal/sustainability"
+  },
+  {
+    "id": "jurnal04",
+    "judul": "Evaluating ChatGPT-4 and ChatGPT-4o: Performance Insights from NAEP Mathematics Problem Solving",
+    "penulis": "Wei, X.",
+    "tahun": "2024",
+    "level_indeks": "Q1 — Frontiers in Education",
+    "link": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1452570/full"
+  },
+  {
+    "id": "jurnal05",
+    "judul": "Unifying AI Tutor Evaluation: An Evaluation Taxonomy for Pedagogical Ability Assessment of LLM-Powered AI Tutors",
+    "penulis": "Maurya, K., Srivatsa, A., Petukhova, O. & Kochmar, E.",
+    "tahun": "2025",
+    "level_indeks": "Q1 conf — NAACL 2025 (ACL Anthology)",
+    "link": "https://aclanthology.org/2025.naacl-long.57/"
+  },
+  {
+    "id": "jurnal06",
+    "judul": "MathTutorBench: A Benchmark for Measuring Open-ended Pedagogical Capabilities of LLM Tutors",
+    "penulis": "Macina, J. et al.",
+    "tahun": "2025",
+    "level_indeks": "Q1 conf — EMNLP 2025 (ACL Anthology)",
+    "link": "https://aclanthology.org/2025.emnlp-main.11/"
+  },
+  {
+    "id": "jurnal07",
+    "judul": "From Solver to Tutor: Evaluating the Pedagogical Intelligence of LLMs with KMP-Bench",
+    "penulis": "Shi, Y. et al.",
+    "tahun": "2026",
+    "level_indeks": "Q1 conf — AAAI 2026 (AAAI Press)",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/40578"
+  },
+  {
+    "id": "jurnal08",
+    "judul": "Article Quality-Aware Selection for Retrieval-Augmented Fine-Tuning of Small Language Models",
+    "penulis": "Cho, S. & Jung, K.",
+    "tahun": "2026",
+    "level_indeks": "Q1 — Mathematics (MDPI)",
+    "link": "https://www.mdpi.com/2227-7390/14/17/3026"
+  },
+  {
+    "id": "jurnal09",
+    "judul": "Reframing Reading Pace as a Learning Strategy: Classroom Evidence of Speed Reading Practices in Indonesian Primary Education",
+    "penulis": "Tidak disebutkan",
+    "tahun": "2025",
+    "level_indeks": "SINTA 2 — DOAJ terindeks",
+    "link": "https://doaj.org/article/2c9fdd2f5fa74a37b0e73eee94266223"
+  },
+  {
+    "id": "jurnal10",
+    "judul": "Effect of Differentiated Learning Based Learning Style on Learning Outcome IV Grade in Mathematics",
+    "penulis": "Komarudin & Putri, D.A.A.",
+    "tahun": "2025",
+    "level_indeks": "SINTA 2 — Didaktika: Jurnal Kependidikan",
+    "link": "https://doi.org/10.26811/didaktika.v9i3.1997"
+  }
+]
